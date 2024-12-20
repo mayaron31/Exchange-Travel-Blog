@@ -37,8 +37,8 @@ h1 {
 }
 
 .card img {
-  width: 150px;
-  height: 150px;
+  width: 180px;
+  height: 180px;
   object-fit: cover;
   border-radius: 8px;
   margin-right: 15px;
@@ -84,8 +84,8 @@ footer {
 
   @media (min-width: 1024px) {
     .card img {
-      width: 200px; /* רוחב מוגדל */
-      height: 200px; /* גובה מוגדל */
+      width: 250px; /* רוחב מוגדל */
+      height: 250px; /* גובה מוגדל */
     }
   }
   
