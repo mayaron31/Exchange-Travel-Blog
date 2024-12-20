@@ -84,8 +84,8 @@ footer {
 
   @media (min-width: 1024px) {
     .card img {
-      width: 250px; /* רוחב מוגדל */
-      height: 250px; /* גובה מוגדל */
+      width: 250px; 
+      height: 250px; 
     }
   }
   
